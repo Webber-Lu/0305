@@ -1,0 +1,6 @@
+.container {
+    display: grid; /* 設定為 Grid 容器 */
+    grid-template-columns: 100px 200px auto; /* 設定 3 欄 */
+    grid-template-rows: 100px 200px; /* 設定 2 列 */
+    gap: 10px; /* 設定間距 */
+  }
